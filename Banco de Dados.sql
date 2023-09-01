@@ -1,3 +1,5 @@
+Create database primeiro_banco_de_dados;
+
 USE primeiro_banco_de_dados;
 
 create table pessoa (
